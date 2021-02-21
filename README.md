@@ -1,7 +1,5 @@
 # Hi there 👋
 
-
-### About Me
 <div>
   <iframe src="https://wilspi.com/about-me" style="height:800px;width:800px" title="Iframe Acko"></iframe>
 </div>
