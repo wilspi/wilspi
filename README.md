@@ -1,8 +1,5 @@
 # Hi there 👋
 
-<div>
-  <iframe src="https://wilspi.com/about-me" style="height:800px;width:800px" title="About Me"></iframe>
-</div>
 
 <!--
 **wilspi/wilspi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
